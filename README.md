@@ -24,11 +24,12 @@ where the type of 'a' is Type1 and the type of the result of "something here" is
 4. Write a function "isPyTriple: Int->Int-Int->Bool" that given three integers a,b,c, returns whether c^2 is equal to a^2 + b^2
 
 # PUGofer-Functions on Structured Arguments
-Sample exercise
 
-Problem:
+## Sample exercise
+
+**Problem:**
   Write a function "square : Int -> Int" that calculates the square of its argument
-Solution:
+**Solution:**
   square.x = x * x
 -------------------------------------------------------------------------------------------------------
 
